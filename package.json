@@ -62,7 +62,7 @@
     "compression": "^1.7.4",
     "cors": "^2.8.4",
     "express": "^4.17.1",
-    "file-type": "^10.11.0",
+    "file-type": "^16.5.4",
     "firebase-admin": "^7.4.0",
     "image-data-uri": "^2.0.0",
     "jsend": "^1.0.2",
